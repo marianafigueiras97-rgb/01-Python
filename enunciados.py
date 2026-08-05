@@ -1,17 +1,6 @@
 
-''' 
-'''
-''' 
-'''
-''' EJERCICIO 4 
-Genera una función que calcule la diferencia entre los valores de dos listas. Usa la función map().
-'''
-''' EJERCICIO 5
-Escribe una función que tome una lista de números como parámetro y un valor opcional nota_aprobado (por defecto 5). La función debe calcular la media de los números en la lista y determinar si la media es mayor o igual que nota_aprobado. Si es así, el estado será "aprobado"; de lo contrario, "suspenso". La función debe devolver una tupla que contenga la media y el estado.
-'''
-''' EJERCICIO 6
-Escribe una función que calcule el factorial de un número de manera recursiva.
-'''
+
+
 ''' EJERCICIO 7
 Genera una función que convierta una lista de tuplas a una lista de strings. Usa la función map().
 '''
