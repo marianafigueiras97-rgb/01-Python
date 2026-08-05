@@ -1,9 +1,7 @@
 
-''' EJERCICIO 2 
-Dada una lista de números, obtén una nueva lista con el doble de cada valor. Usa la función map().
+''' 
 '''
-''' EJERCICIO 3
-Escribe una función que tome una lista de palabras y una palabra objetivo como parámetros. La función debe devolver una lista con todas las palabras de la lista original que contengan la palabra objetivo.
+''' 
 '''
 ''' EJERCICIO 4 
 Genera una función que calcule la diferencia entre los valores de dos listas. Usa la función map().
